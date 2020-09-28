@@ -1,5 +1,6 @@
 {
   "name": "apollo-optimism-memory",
+  "homepage": "http://kamilkisiela.github.io/apollo-pessimism",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
